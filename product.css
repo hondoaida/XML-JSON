@@ -1,0 +1,26 @@
+KOZA, MAKEUP {
+    background-color: #ffffff;
+    color: #00ff00
+    width: 100%;
+}
+LICE {
+    display: block;
+    color: #0066ff;
+    margin-bottom: 30pt;
+    margin-left: 0;
+}
+OCI {
+    display: block;
+    color: #00ccff;
+    font-size: 20pt;
+}
+NAZIV {
+    display: block;
+    color: #0000ff;
+    font-size: 20pt;
+}
+TIP, ROK, EFEKAT, DOB, SASTOJAK, BOJA, SIFRA {
+    display: block;
+    color: #007a99;
+    margin-left: 20pt;
+}

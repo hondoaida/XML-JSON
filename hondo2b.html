@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html>
+
+<body>
+<style type="text/css">
+  body{
+    background-color: red;
+    color: white;
+    width: 100%;
+    display: block;
+    margin-bottom: 30pt;
+    margin-left: 0;
+    font-size: 15px;
+}
+</style>
+
+<div id='show'></div><br>
+<input type="button" onclick="previous()" value="<<<">
+<input type="button" onclick="next()" value=">>>">
+
+<script>
+var i = 0;
+var x;
+displayCD(i);
+
+function displayCD(i) {
+    var xmlhttp = new XMLHttpRequest();
+    xmlhttp.onreadystatechange = function() {
+        if (this.readyState == 4 && this.status == 200) {
+            myFunction(this, i);
+        }
+    };
+    xmlhttp.open("GET", "zadatak.xml", true);
+    xmlhttp.send();
+}
+
+function myFunction(xml, i) {
+    var xmlDoc = xml.responseXML; 
+    x = xmlDoc.getElementsByTagName("LICE");
+    document.getElementById("show").innerHTML =
+    "Naziv: " +
+    x[i].getElementsByTagName("NAZIV")[0].childNodes[0].nodeValue +
+    "<br>Tip: " +
+    x[i].getElementsByTagName("TIP")[0].childNodes[0].nodeValue +
+    "<br>Dob: " + 
+    x[i].getElementsByTagName("DOB")[0].childNodes[0].nodeValue+
+    "<br>Efekat: "  +
+    x[i].getElementsByTagName("EFEKAT")[0].childNodes[0].nodeValue +
+    "<br>Sastojak: " +
+    x[i].getElementsByTagName("SASTOJAK")[0].childNodes[0].nodeValue +
+    "<br>Rok: " + 
+    x[i].getElementsByTagName("ROK")[0].childNodes[0].nodeValue;
+}
+
+function next() {
+if (i < x.length-1) {
+  i++;
+  displayCD(i);
+  }
+}
+
+function previous() {
+if (i > 0) {
+  i--;
+  displayCD(i);
+  }
+}
+</script>
+
+</body>
+</html>

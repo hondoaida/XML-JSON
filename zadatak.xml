@@ -1,0 +1,142 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml-stylesheet type="text/css" href="product.css"?>
+<KATALOG>
+  <LICE>
+    <NAZIV>True Perfection</NAZIV>
+    <TIP>Dnevna krema</TIP>
+    <DOB>20+</DOB>
+    <EFEKAT>Blistava i odmorna koza</EFEKAT>
+    <SASTOJAK>Biljne maticne celije</SASTOJAK>
+    <ROK>2 godine</ROK>
+  </LICE>
+  <LICE>
+    <NAZIV>True Perfection</NAZIV>
+    <TIP>Nocna krema</TIP>
+    <DOB>20+</DOB>
+    <EFEKAT>Blistava i odmorna koza</EFEKAT>
+    <SASTOJAK>Biljne maticne celije</SASTOJAK>
+    <ROK>2 godine</ROK>
+  </LICE>
+  <LICE>
+    <NAZIV>True Perfection</NAZIV>
+    <TIP>Serum</TIP>
+    <DOB>20+</DOB>
+    <EFEKAT>Blistava i odmorna koza</EFEKAT>
+    <SASTOJAK>Biljne maticne celije</SASTOJAK>
+    <ROK>2 godine</ROK>
+  </LICE>
+  <LICE>
+    <NAZIV>True Perfection</NAZIV>
+    <TIP>Krema za podrucje oko ociju</TIP>
+    <DOB>20+</DOB>
+    <EFEKAT>Blistava i odmorna koza</EFEKAT>
+    <SASTOJAK>Biljne maticne celije</SASTOJAK>
+    <ROK>2 godine</ROK>
+  </LICE>
+  <LICE>
+    <NAZIV>True Perfection</NAZIV>
+    <TIP>Tonik</TIP>
+    <DOB>20+</DOB>
+    <EFEKAT>Blistava i odmorna koza</EFEKAT>
+    <SASTOJAK>Biljne maticne celije</SASTOJAK>
+    <ROK>2 godine</ROK>
+  </LICE>
+  <LICE>
+    <NAZIV>True Perfection</NAZIV>
+    <TIP>Pjenušavi gel</TIP>
+    <DOB>20+</DOB>
+    <EFEKAT>Blistava i odmorna koza</EFEKAT>
+    <SASTOJAK>Biljne maticne celije</SASTOJAK>
+    <ROK>2 godine</ROK>
+  </LICE>
+  <LICE>
+    <NAZIV>Ecollagen</NAZIV>
+    <TIP>Dnevna krema</TIP>
+    <DOB>30+</DOB>
+    <EFEKAT>Sprecavanje bora</EFEKAT>
+    <SASTOJAK>Biljne maticne celije</SASTOJAK>
+    <ROK>2 godine</ROK>
+  </LICE>
+  <LICE>
+    <NAZIV>Ecollagen</NAZIV>
+    <TIP>Nocna krema</TIP>
+    <DOB>30+</DOB>
+    <EFEKAT>Sprecavanje bora</EFEKAT>
+    <SASTOJAK>Biljne maticne celije</SASTOJAK>
+    <ROK>2 godine</ROK>
+  </LICE>
+  <LICE>
+    <NAZIV>Ecollagen</NAZIV>
+    <TIP>Serum</TIP>
+    <DOB>30+</DOB>
+    <EFEKAT>Sprecavanje bora</EFEKAT>
+    <SASTOJAK>Biljne maticne celije</SASTOJAK>
+    <ROK>2 godine</ROK>
+  </LICE>
+  <LICE>
+    <NAZIV>Ecollagen</NAZIV>
+    <TIP>Krema za podrucje oko ociju</TIP>
+    <DOB>30+</DOB>
+    <EFEKAT>Sprecavanje bora</EFEKAT>
+    <SASTOJAK>Biljne maticne celije</SASTOJAK>
+    <ROK>2 godine</ROK>
+  </LICE>
+  <LICE>
+    <NAZIV>Ecollagen</NAZIV>
+    <TIP>Tonik</TIP>
+    <DOB>30+</DOB>
+    <EFEKAT>Sprecavanje bora</EFEKAT>
+    <SASTOJAK>Biljne maticne celije</SASTOJAK>
+    <ROK>2 godine</ROK>
+  </LICE>
+  <LICE>
+    <NAZIV>Ecollagen</NAZIV>
+    <TIP>Pjenusavi gel</TIP>
+    <DOB>30+</DOB>
+    <EFEKAT>Sprecavanje bora</EFEKAT>
+    <SASTOJAK>Biljne maticne celije</SASTOJAK>
+    <ROK>2 godine</ROK>
+  </LICE>
+  <LICE>
+    <NAZIV>Love nature malina</NAZIV>
+    <TIP>Losion za tijelo</TIP>
+    <EFEKAT>Hidratizira kozu</EFEKAT>
+    <SASTOJAK>Malina i jojoba</SASTOJAK>
+    <ROK>2 godine</ROK>
+  </LICE>
+  <LICE>
+    <NAZIV>Love nature malina</NAZIV>
+    <TIP>Gel za tuširanje</TIP>
+    <EFEKAT>Njeguje kožu</EFEKAT>
+    <SASTOJAK>Malina i jojoba</SASTOJAK>
+    <ROK>2 godine</ROK>
+  </LICE>
+  <LICE>
+    <NAZIV>Love nature malina</NAZIV>
+    <TIP>Piling</TIP>
+    <EFEKAT>Uklanja odumrle celije</EFEKAT>
+    <SASTOJAK>Malina i jojoba</SASTOJAK>
+    <ROK>2 godine</ROK>
+  </LICE>
+  <LICE>
+    <NAZIV>Love nature kokos</NAZIV>
+    <TIP>Losion za tijelo</TIP>
+    <EFEKAT>Hidratizira kozu</EFEKAT>
+    <SASTOJAK>Kokos</SASTOJAK>
+    <ROK>2 godine</ROK>
+  </LICE>
+  <LICE>
+    <NAZIV>Love nature kokos</NAZIV>
+    <TIP>Gel za tusiranje</TIP>
+    <EFEKAT>Njeguje kozu</EFEKAT>
+    <SASTOJAK>Kokos</SASTOJAK>
+    <ROK>2 godine</ROK>
+  </LICE>
+  <LICE>
+    <NAZIV>Love nature kokos</NAZIV>
+    <TIP>Piling</TIP>
+    <EFEKAT>Uklanja odumrlu kozu</EFEKAT>
+    <SASTOJAK>Kokos</SASTOJAK>
+    <ROK>2 godine</ROK>
+  </LICE>
+</KATALOG>
